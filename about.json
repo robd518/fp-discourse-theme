@@ -1,0 +1,18 @@
+{
+  "name": "Flashpoint Discourse Theme",
+  "assets": {},
+  "color_schemes": {
+    "Flashpoint": {
+      "primary": "fafafa",
+      "secondary": "1a1c33",
+      "tertiary": "fb8521",
+      "quaternary": "c14924",
+      "header_background": "1a1c33",
+      "header_primary": "fafafa",
+      "highlight": "d1d2d2",
+      "danger": "e45735",
+      "success": "1ca551",
+      "love": "FF2454"
+    }
+  }
+}
